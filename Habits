@@ -1,0 +1,15 @@
+{
+  "Habits":
+  [
+    {"Frequency":"Daily","Time":"Morning","HabitID":1,"HabitImage":"","HabitName":"Make Bed"}
+    {"Frequency":"Daily","Time":"Morning","HabitID":2,"HabitImage":"","HabitName":"Floss"}
+    {"Frequency":"Daily","Time":"Any Time","HabitID":3,"HabitImage":"","HabitName":"Go for a Walk"}
+    {"Frequency":"Daily","Time":"Morning","HabitID":4,"HabitImage":"","HabitName":"Drink Water"}
+    {"Frequency":"Daily","Time":"Night","HabitID":5,"HabitImage":"","HabitName":"Skincare"}
+    {"Frequency":"Daily","Time":"Night","HabitID":6,"HabitImage":"","HabitName":"Shower"}
+    {"Frequency":"Weekly","Time":"Any Time","HabitID":7,"HabitImage":"","HabitName":"Clean Kitchen"}
+    {"Frequency":"Weekly","Time":"Any Time","HabitID":8,"HabitImage":"","HabitName":"Clean Bathroom"}
+    {"Frequency":"Weekly","Time":"Monday","HabitID":9,"HabitImage":"","HabitName":"Do Laundry"}
+  ],
+  "Status":"OK"
+}
