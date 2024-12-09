@@ -1,14 +1,14 @@
 {
   "Habits":
   [
-    {"Frequency":"Daily","Time":"Morning","HabitID":1,"HabitImage":"","HabitName":"Make Bed","Description":"Don't forget to make sure the blankets are tucked in!","Streak":0,"Complete":"Incomplete"}
-    {"Frequency":"Daily","Time":"Morning","HabitID":2,"HabitImage":"","HabitName":"Floss","Description":"Floss teeth before brushing.","Streak":0,"Complete":"Incomplete"}
-    {"Frequency":"Daily","Time":"Any Time","HabitID":3,"HabitImage":"","HabitName":"Go for a Walk","Description":"Take the dog for a walk to get exercise for both of you.","Streak":0,"Complete":"Incomplete"}
-    {"Frequency":"Daily","Time":"Morning","HabitID":4,"HabitImage":"","HabitName":"Drink Water","Description":"Drink a whole cup of water right as you wake up.","Streak":0,"Complete":"Incomplete"}
-    {"Frequency":"Daily","Time":"Night","HabitID":5,"HabitImage":"","HabitName":"Skincare","Description":"Wash face and apply retinol cream.","Streak":0,"Complete":"Incomplete"}
-    {"Frequency":"Daily","Time":"Night","HabitID":6,"HabitImage":"","HabitName":"Shower","Description":"Wash hair once a week.","Streak":0,"Complete":"Incomplete"}
-    {"Frequency":"Weekly","Time":"Any Time","HabitID":7,"HabitImage":"","HabitName":"Clean Kitchen","Description":"Wipe down counters and vacuum floor.","Streak":0,"Complete":"Incomplete"}
-    {"Frequency":"Weekly","Time":"Any Time","HabitID":8,"HabitImage":"","HabitName":"Clean Bathroom","Description":"Wipe down toilet and shower.","Streak":0,"Complete":"Incomplete"}
+    {"Frequency":"Daily","Time":"Morning","HabitID":1,"HabitImage":"","HabitName":"Make Bed","Description":"Don't forget to make sure the blankets are tucked in!","Streak":0,"Complete":"Incomplete"},
+    {"Frequency":"Daily","Time":"Morning","HabitID":2,"HabitImage":"","HabitName":"Floss","Description":"Floss teeth before brushing.","Streak":0,"Complete":"Incomplete"},
+    {"Frequency":"Daily","Time":"Any Time","HabitID":3,"HabitImage":"","HabitName":"Go for a Walk","Description":"Take the dog for a walk to get exercise for both of you.","Streak":0,"Complete":"Incomplete"},
+    {"Frequency":"Daily","Time":"Morning","HabitID":4,"HabitImage":"","HabitName":"Drink Water","Description":"Drink a whole cup of water right as you wake up.","Streak":0,"Complete":"Incomplete"},
+    {"Frequency":"Daily","Time":"Night","HabitID":5,"HabitImage":"","HabitName":"Skincare","Description":"Wash face and apply retinol cream.","Streak":0,"Complete":"Incomplete"},
+    {"Frequency":"Daily","Time":"Night","HabitID":6,"HabitImage":"","HabitName":"Shower","Description":"Wash hair once a week.","Streak":0,"Complete":"Incomplete"},
+    {"Frequency":"Weekly","Time":"Any Time","HabitID":7,"HabitImage":"","HabitName":"Clean Kitchen","Description":"Wipe down counters and vacuum floor.","Streak":0,"Complete":"Incomplete"},
+    {"Frequency":"Weekly","Time":"Any Time","HabitID":8,"HabitImage":"","HabitName":"Clean Bathroom","Description":"Wipe down toilet and shower.","Streak":0,"Complete":"Incomplete"},
     {"Frequency":"Weekly","Time":"Monday","HabitID":9,"HabitImage":"","HabitName":"Do Laundry","Description":"Wash lights and darks.","Streak":0,"Complete":"Incomplete"}
   ],
   "Status":"OK"
