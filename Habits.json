@@ -1,7 +1,7 @@
 {
   "Habits":
   [
-    {"Frequency":"Daily","Time":"Morning","HabitID":1,"HabitImage":"https://raw.githubusercontent.com/rissenfire/HabitTrackerIT315/refs/heads/main/walking.png","HabitName":"Make Bed","Description":"Don't forget to make sure the blankets are tucked in!","Streak":0,"Complete":"Incomplete"},
+    {"Frequency":"Daily","Time":"Morning","HabitID":1,"HabitImage":"https://raw.github.com/rissenfire/HabitTrackerIT315/blob/main/bed.jpeg","HabitName":"Make Bed","Description":"Don't forget to make sure the blankets are tucked in!","Streak":0,"Complete":"Incomplete"},
     {"Frequency":"Daily","Time":"Morning","HabitID":2,"HabitImage":"https://raw.githubusercontent.com/rissenfire/HabitTrackerIT315/refs/heads/main/walking.png","HabitName":"Floss","Description":"Floss teeth before brushing.","Streak":0,"Complete":"Incomplete"},
     {"Frequency":"Daily","Time":"Any Time","HabitID":3,"HabitImage":"https://raw.githubusercontent.com/rissenfire/HabitTrackerIT315/refs/heads/main/walking.png","HabitName":"Go for a Walk","Description":"Take the dog for a walk to get exercise for both of you.","Streak":0,"Complete":"Incomplete"},
     {"Frequency":"Daily","Time":"Morning","HabitID":4,"HabitImage":"https://raw.githubusercontent.com/rissenfire/HabitTrackerIT315/refs/heads/main/walking.png","HabitName":"Drink Water","Description":"Drink a whole cup of water right as you wake up.","Streak":0,"Complete":"Incomplete"},
